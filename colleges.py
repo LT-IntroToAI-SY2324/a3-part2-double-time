@@ -40,4 +40,22 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ], 
 
     ),
+    (
+        "illinois institute of technology", 
+        [
+            "engineering",
+            "computer and information sciences and support services",
+            "architecture and related services",
+        ],
+        6947,
+        "chicago, illinois", 
+        [
+            "basketball",
+            "cross country",
+            "lacrosse",
+            "swimming & diving",
+            "volleyball",
+        ], 
+
+    ),
 ]
