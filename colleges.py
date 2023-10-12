@@ -58,4 +58,22 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ], 
 
     ),
+    (
+        "yale university", 
+        [
+            "mathematics and statistics",
+            "multi/interdisciplinary studies",
+            "history",
+            "engineering",
+        ],
+        14776,
+        "new haven, connecticut", 
+        [
+            "ice hockey",
+            "golf",
+            "squash",
+            "basketball",
+        ], 
+
+    ),
 ]
