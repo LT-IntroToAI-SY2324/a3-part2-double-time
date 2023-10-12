@@ -76,4 +76,22 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ], 
 
     ),
+    (
+        "harvard university", 
+        [
+            "social sciences",
+            "econometrics and quantitative economics",
+            "computer science",
+        ],
+        21613,
+        "cambridge, massachusetts", 
+        [
+            "fencing",
+            "water polo",
+            "golf",
+            "basketball",
+            "baseball",
+        ], 
+
+    ),
 ]
