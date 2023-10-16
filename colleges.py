@@ -94,4 +94,164 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ], 
 
     ),
+    (
+        "University of Illinois Urbana Champaign",
+        [
+            "computer science"
+            "Bio-medical engeneering"
+            "Business"
+        ],
+        35000,
+        "Urbana-Champaign, Illinois",
+        [
+            "Basketball",
+            "Gymnastics",
+            "cross country",
+            "golf",
+            "tennis"
+        ],
+    ),
+    (
+        "University of Chicago",
+        [
+            "computer science"
+            "economics"
+            "Business"
+        ],
+        18000,
+        "Chicago, Illinois",
+        [
+            "Basketball",
+            "Soccer",
+            "tennis",
+            "soccer",
+            "hockey"
+        ],
+    ),
+    (
+        "University of Illinois chicago",
+        [
+            "computer science"
+            "nursing"
+            "economics"
+        ],
+        22000,
+        "Chicago, Illinois",
+        [
+            "Basketball",
+            "soccer",
+            "cross country",
+            "track and field",
+            "tennis"
+        ],
+    ),
+    (
+        "Northeastern University",
+        [
+            "math"
+            "Bio-medical engeneering"
+            "economics"
+        ],
+        12880,
+        "evanston, Illinois",
+        [
+            "Basketball",
+            "tennis",
+            "soccer",
+            "golf",
+            "swim and dive"
+        ],
+    ),
+    (
+        "UW Madison",
+        [
+            "psychology"
+            "Bio-medical engeneering"
+            "Business"
+        ],
+        37,000,
+        "Madison, Wisconsin",
+        [
+            "ice hockey",
+            "soccer",
+            "lacross",
+            "volleyball",
+            "rugby"
+        ],
+    ),
+    (
+        "University of Pennsylvania",
+        [
+            "finance"
+            "econometrics"
+            "nursing"
+        ],
+        24000,
+        "Philadelphia, Pennsylvania",
+        [
+            "Soccer",
+            "football",
+            "track and field",
+        ],
+    ),
+    (
+        "Suffolk University",
+        [
+            "finance"
+            "marketing"
+            "Business administration"
+        ],
+        9000,
+        "Massachussests, Boston",
+        [
+            "soccer",
+            "basketball",
+            "baseball",
+        ],
+    ),
+    (
+        "Northeastern university",
+        [
+            "cIS"
+            "mechanical engeneering"
+            "Business"
+        ],
+        20000,
+        "Massachussets, Boston",
+        [
+            "Basketball",
+            "soccer",
+            "ice hockey",
+        ],
+    ),
+    (
+        "Drexel university",
+        [
+            "nursing"
+            "mechanical engeneering"
+            "accounting"
+        ],
+        26000,
+        "philadelphia, pennsylvania",
+        [
+            "Basketball",
+            "wrestling",
+            "field hockey",
+        ],
+    ),
+    (
+        "grand valley state university",
+        [
+            "finance"
+            "Bio-medical sciences"
+            "marketing"
+        ],
+        25000,
+        "grand rapids, michigan",
+        [
+            "Basketball",
+            "wrestling",
+            "rowing",
+        ],
+    ),
 ]
