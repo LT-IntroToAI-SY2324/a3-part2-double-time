@@ -94,4 +94,104 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ], 
 
     ),
+    (
+        "rhode island school of design", 
+        [
+            "illustration",
+            "industrial and product design",
+            "systems science and theory",
+            "graphic design",
+            "architectural and building sciences/technology"
+        ],
+        2620,
+        "providence, rhode island", 
+        [
+            "basketball",
+            "fencing",
+            "ice hockey",
+            "soccer",
+            "ultimate frisbee",
+        ], 
+
+    ),
+    (
+        "wheaton college", 
+        [
+            "business economics",
+            "english language & literature",
+            "health services/sciences",
+            "psychology",
+            "quantitative economics"
+        ],
+        2900,
+        "wheaton, illinois", 
+        [
+            "golf",
+            "football",
+            "volleyball",
+            "water polo",
+            "soccer",
+        ], 
+
+    ),
+    (
+        "cornell university", 
+        [
+            "computer science",
+            "biology",
+            "labor & industrial relations",
+            "hotel/motel administration/management",
+            "agricultural economics"
+        ],
+        15735,
+        "ithaca, new york", 
+        [
+            "ultimate frisbee",
+            "water polo",
+            "ice hockey",
+            "bowling",
+            "lacrosse",
+        ], 
+
+    ),
+    (
+        "lewis university", 
+        [
+            "computer science",
+            "criminal justice/safety studies",
+            "registered nursing",
+            "airway management & operations",
+            "business administration & management"
+        ],
+        6513,
+        "romeoville,illinois", 
+        [
+            "archery",
+            "bowling",
+            "volleyball",
+            "soccer",
+            "swimming & diving",
+        ], 
+
+    ),
+    (
+        "massachusetts institute of technology", 
+        [
+            "computer science",
+            "mechanical engineering",
+            "math",
+            "electrical/electronics engineering",
+            "ecometrics & quantitative economics"
+        ],
+        11858,
+        "cambridge, massachusetts", 
+        [
+            "rowing",
+            "volleyball",
+            "water polo",
+            "sailing",
+            "table tennis",
+        ], 
+
+    ),
 ]
