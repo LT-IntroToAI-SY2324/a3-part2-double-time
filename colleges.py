@@ -169,7 +169,7 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
             "bio-medical engineering",
             "business",
         ],
-        37,000,
+        37000,
         "madison, wisconsin",
         [
             "ice hockey",
