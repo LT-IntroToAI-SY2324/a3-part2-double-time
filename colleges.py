@@ -6,7 +6,7 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         [
             "biology",
             "biochemistry",
-            "acconting",
+            "accounting",
             "finance",
         ], # majors
         20917, # students
@@ -95,114 +95,114 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
 
     ),
     (
-        "University of Illinois Urbana Champaign",
+        "university of illinois urbana champaign",
         [
-            "computer science"
-            "Bio-medical engeneering"
-            "Business"
+            "computer science",
+            "bio-medical engineering",
+            "business",
         ],
         35000,
-        "Urbana-Champaign, Illinois",
+        "urbana-champaign, illinois",
         [
-            "Basketball",
-            "Gymnastics",
+            "basketball",
+            "gymnastics",
             "cross country",
             "golf",
-            "tennis"
+            "tennis",
         ],
     ),
     (
-        "University of Chicago",
+        "university of chicago",
         [
-            "computer science"
-            "economics"
-            "Business"
+            "computer science",
+            "economics",
+            "business",
         ],
         18000,
-        "Chicago, Illinois",
+        "chicago, illinois",
         [
-            "Basketball",
-            "Soccer",
+            "basketball",
+            "soccer",
             "tennis",
             "soccer",
-            "hockey"
+            "hockey",
         ],
     ),
     (
-        "University of Illinois chicago",
+        "university of illinois chicago",
         [
-            "computer science"
-            "nursing"
-            "economics"
+            "computer science",
+            "nursing",
+            "economics",
         ],
         22000,
-        "Chicago, Illinois",
+        "chicago, illinois",
         [
-            "Basketball",
+            "basketball",
             "soccer",
             "cross country",
             "track and field",
-            "tennis"
+            "tennis",
         ],
     ),
     (
-        "Northeastern University",
+        "northeastern university",
         [
-            "math"
-            "Bio-medical engeneering"
-            "economics"
+            "math",
+            "bio-medical engineering",
+            "economics",
         ],
         12880,
-        "evanston, Illinois",
+        "evanston, illinois",
         [
-            "Basketball",
+            "basketball",
             "tennis",
             "soccer",
             "golf",
-            "swim and dive"
+            "swim and dive",
         ],
     ),
     (
-        "UW Madison",
+        "uw madison",
         [
-            "psychology"
-            "Bio-medical engeneering"
-            "Business"
+            "psychology",
+            "bio-medical engineering",
+            "business",
         ],
         37,000,
-        "Madison, Wisconsin",
+        "madison, wisconsin",
         [
             "ice hockey",
             "soccer",
-            "lacross",
+            "lacrosse",
             "volleyball",
-            "rugby"
+            "rugby",
         ],
     ),
     (
-        "University of Pennsylvania",
+        "university of pennsylvania",
         [
-            "finance"
-            "econometrics"
-            "nursing"
+            "finance",
+            "econometrics",
+            "nursing",
         ],
         24000,
-        "Philadelphia, Pennsylvania",
+        "philadelphia, pennsylvania",
         [
-            "Soccer",
+            "soccer",
             "football",
             "track and field",
         ],
     ),
     (
-        "Suffolk University",
+        "suffolk university",
         [
-            "finance"
-            "marketing"
-            "Business administration"
+            "finance",
+            "marketing",
+            "business administration",
         ],
         9000,
-        "Massachussests, Boston",
+        "massachussests, boston",
         [
             "soccer",
             "basketball",
@@ -210,31 +210,31 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
         ],
     ),
     (
-        "Northeastern university",
+        "northeastern university",
         [
-            "cIS"
-            "mechanical engeneering"
-            "Business"
+            "cis",
+            "mechanical engineering",
+            "business",
         ],
         20000,
-        "Massachussets, Boston",
+        "massachussets, boston",
         [
-            "Basketball",
+            "basketball",
             "soccer",
             "ice hockey",
         ],
     ),
     (
-        "Drexel university",
+        "drexel university",
         [
-            "nursing"
-            "mechanical engeneering"
-            "accounting"
+            "nursing",
+            "mechanical engineering",
+            "accounting",
         ],
         26000,
         "philadelphia, pennsylvania",
         [
-            "Basketball",
+            "basketball",
             "wrestling",
             "field hockey",
         ],
@@ -242,16 +242,16 @@ college_db: List[Tuple[str, List[str], int, str, List[str]]] = [
     (
         "grand valley state university",
         [
-            "finance"
-            "Bio-medical sciences"
-            "marketing"
+            "finance",
+            "bio-medical sciences",
+            "marketing",
         ],
         25000,
         "grand rapids, michigan",
         [
-            "Basketball",
+            "basketball",
             "wrestling",
             "rowing",
         ],
-    ),
+    )
 ]
